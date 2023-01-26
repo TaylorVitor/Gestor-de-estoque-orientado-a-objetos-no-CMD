@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Projeto 4\Projeto 4\obj\Debug\Projeto 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projeto 4\Projeto 4\bin\Debug\Projeto 3.exe.config
+C:\Users\Usuario\Documents\Projeto 4\Projeto 4\bin\Debug\Projeto 3.exe
+C:\Users\Usuario\Documents\Projeto 4\Projeto 4\bin\Debug\Projeto 3.pdb
+C:\Users\Usuario\Documents\Projeto 4\Projeto 4\obj\Debug\Projeto 3.exe
+C:\Users\Usuario\Documents\Projeto 4\Projeto 4\obj\Debug\Projeto 3.pdb
+C:\Users\Usuario\Documents\Projeto 4\Projeto 4\obj\Debug\Projeto 3.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Projeto 4\Projeto 4\bin\Debug\Projeto 3.exe.config
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Projeto 4\Projeto 4\bin\Debug\Projeto 3.exe
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Projeto 4\Projeto 4\bin\Debug\Projeto 3.pdb
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Projeto 4\Projeto 4\obj\Debug\Projeto 3.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Projeto 4\Projeto 4\obj\Debug\Projeto 3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Projeto 4\Projeto 4\obj\Debug\Projeto 3.exe
+C:\Users\Usuario\Documents\MEUS PROJETOS\Projetos C#\Projeto 4\Projeto 4\obj\Debug\Projeto 3.pdb
